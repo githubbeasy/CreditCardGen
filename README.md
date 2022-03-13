@@ -1,0 +1,3 @@
+# CreditCardGen
+RUN AS ADMIN
+ITS 100% VIRUS FREE
